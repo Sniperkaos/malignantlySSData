@@ -1,8 +1,6 @@
-{
-	["sniperkaos"] = true,
-	["doggyshot123"] = true,
-	["xayee"] = true,
-	["legendarysniper203"] = true,
-  	["dynamitebirthday"] = true,
-  	["gavinthelordofdeath"] = true
-}
+sniperkaos,
+doggyshot123,
+xayee,
+legendarysniper203,
+dynamitebirthday,
+gavinthelordofdeath,
