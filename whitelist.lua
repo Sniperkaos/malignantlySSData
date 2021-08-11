@@ -1,4 +1,4 @@
-return {
+{
 	["sniperkaos"] = true,
 	["doggyshot123"] = true,
 	["xayee"] = true,
