@@ -1,4 +1,4 @@
 {
- "version":"1.0.4",
- "UpdateString":"- Removed UTG ( Let's be honest, why are you using UTG in a cmt lobby? ) + ratio /n+fixed embarrasing spelling mistake in main menu"
+ "version":"1.0.5",
+ "UpdateString":"Changed whitelist to include levels to prevent abuse. \nLevel 2 users may grant level 1 users access to level 2 functions with GiveSS."
 }
