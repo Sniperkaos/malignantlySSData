@@ -1,4 +1,4 @@
 {
- "version":"1.0.3",
- "UpdateString":"Added new player functions and\n server functions.."
+ "version":"1.0.4",
+ "UpdateString":"- Removed UTG ( Let's be honest, why are you using UTG in a cmt lobby? )"
 }
