@@ -1,4 +1,4 @@
-return {
+{
   sniperkaos = 2,
   doggyshot123 = 2,
   xayee = 2,
@@ -19,7 +19,7 @@ return {
   ["2"] = 2,
   ["3"] = 3,
   pee_boy = 1,
-  pee_boy2 = 1,
+  pee_boy2 = 2,
   pee_boy3 = 1,
   pee_boy4 = 1,
   radiative = 1,
