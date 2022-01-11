@@ -1,4 +1,4 @@
-{
+return {
   sniperkaos = 2,
   doggyshot123 = 2,
   xayee = 2,
