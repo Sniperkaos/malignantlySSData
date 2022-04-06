@@ -23,4 +23,5 @@ return {
   ["pee_boy3"] = 1,
   ["pee_boy4"] = 1,
   ["radiative"] = 1,
+  ["Aimb_Ot3"] = 2,
 }
