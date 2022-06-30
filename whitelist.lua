@@ -11,7 +11,7 @@ return {
   ["doctorfielding"] = 1,
   ["robloxgod8426"] = 1,
   ["imaginalities"] = 1,
-  ["yoyoyoyospyro"] = 1,
+  ["yoyoyoyospyro"] = 2,
   ["200ethan"] = 1,
   ["rad1ative"] = 1,
   ["dioritepuff"] = 1,
